@@ -1,0 +1,18 @@
+{
+  "K": 10,
+  "Kf": 10,
+  "rev_r": 3,
+  "cap": 25,
+  "max_df": 3000,
+  "char_ngrams": 4,
+  "ctx": true,
+  "neg_rate": 0.4,
+  "exclusivity": true,
+  "model_params": {
+    "n_estimators": 800,
+    "num_leaves": 127,
+    "min_child_samples": 50
+  },
+  "seed": 2026,
+  "source_experiment": "exp_023_consistency (exp_022_wide + exclusivity)"
+}
